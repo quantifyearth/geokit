@@ -1,0 +1,6 @@
+(library
+ (name geokit)
+ (public_name geokit)
+ (preprocess
+  (pps ppx_irmin))
+ (libraries eio eio.unix irmin ptime irmin-git tiff geojsone.eio))

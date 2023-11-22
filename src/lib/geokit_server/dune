@@ -1,0 +1,3 @@
+(library
+ (name geokit_server)
+ (libraries eio spring))

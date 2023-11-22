@@ -1,0 +1,9 @@
+[submodule "vendor/irmin"]
+	path = vendor/irmin
+	url = https://github.com/patricoferris/irmin
+[submodule "vendor/ocaml-tiff"]
+	path = vendor/ocaml-tiff
+	url = https://github.com/geocaml/ocaml-tiff
+[submodule "vendor/lwt_eio"]
+	path = vendor/lwt_eio
+	url = https://github.com/patricoferris/lwt_eio
